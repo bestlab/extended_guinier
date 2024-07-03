@@ -1,6 +1,6 @@
 # extended_guinier
 
-This script implements a version of the "Extended Guinier" method. Briefly, the method addresses the problem that for IDPs the region for which Guinier analysis is valid is usually a very small range of q in which the data is usually very noisy. An ansatz is developed for the next term of the expansion of I(q) such that this information can also be used to extract the radius of gyration (with the caveat that it is limited to disordered proteins in present form).
+This script implements a version of the "Extended Guinier" method. Briefly, the method addresses the problem that for IDPs the region for which Guinier analysis is valid is usually a very small range of q in which the data is usually very noisy. An ansatz is developed for the next term of the expansion of I(q) such that a wider range of q can also be used to extract the radius of gyration (with the caveat that it is limited to disordered proteins in present form).
 
 
 ## Citation
